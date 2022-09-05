@@ -1,6 +1,5 @@
 pip==22.2.2
 setuptools==24.2.0
-python==3.9.13
 python-dateutil==2.6.1
 pytz==2017.2
 numpy==1.13.3
