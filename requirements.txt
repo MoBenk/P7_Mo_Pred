@@ -1,5 +1,5 @@
 conda==4.3.16
-python==3.9.5
+setuptools==0.7.3
 flask==1.1.1
 jinja2==2.11.0
 requests==2.28.1
@@ -9,3 +9,4 @@ pycaret==2.2.3
 markupsafe==1.1.1
 wekzeug==2.0.2
 itsdangerous==2.1.2
+gunicorn==18.0
