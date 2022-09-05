@@ -5,6 +5,5 @@ pandas==1.4.3
 numpy==1.21.4
 pycaret==2.2.3
 markupsafe==1.1.1
-wekzeug==2.0.2
 itsdangerous==2.1.2
 gunicorn==18.0
